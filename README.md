@@ -1,5 +1,5 @@
 
-# FoodDelight - Responsive Layout Assignment
+# FoodDelight - Responsive Layout Assignment(Internship Project)
 
 This project(TASK 3) was completed as part of my internship with Innomatics Research Labs.
 The layout adapts to various screen sizes, including mobile, tablet, and desktop, using **CSS Grid** and **media queries**.
